@@ -10,6 +10,6 @@ Voici où vous pouvez trouver les consignes : https://www.cloudschool.org/iut-in
 
 # Informations complémentaires
 
-Language utilisé: HTML / CSS
-Le projet est aujourd'hui fini est disponible à l'adresse suivante : https://combava.thomas-marty.fr
+Language utilisé: HTML / CSS   
+Le projet est aujourd'hui fini est disponible à l'adresse suivante : https://combava.thomas-marty.fr   
 Il a été réalisé par Manon DELEEST et Thomas Marty.
